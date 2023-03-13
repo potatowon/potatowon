@@ -1,4 +1,5 @@
-### AI 엔지니어를 꿈꾸는 개발하는 감자 🥔
+### 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=감자&fontSize=90)
 
 <!--
 **potatowon/potatowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,18 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<h3 align='center'>🧑‍💻 Career</h3>
-<p align='center'>
-  ⋆ kakao mobility, ML Engineer (2022.05~)
-  <br>
-  ⋆ kakao mobility, ML Engineer Intern &nbsp(2022.02~2022.05)
-  <br>
-  ⋆ LINE, AI Engineer Intern &nbsp(2022.01~2022.01) 
-  <br>
-  ⋆ Market Kurly, Data Scientist Intern &nbsp(2021.05~2021.08)
-</p>
--->
+<h3 align="center">AI 엔지니어를 꿈꾸는 개발하는 감자 🥔 </h3>
 <h3 align="center">Main Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
