@@ -1,4 +1,4 @@
-### AI 엔지니어를 꿈꾸는 
+### AI 엔지니어를 꿈꾸는 개발하는 감자 🥔
 
 <!--
 **potatowon/potatowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
