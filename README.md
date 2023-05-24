@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Tensorflow-013243?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-013243?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
 
 </p>
 
