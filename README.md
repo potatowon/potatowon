@@ -19,12 +19,18 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">AI 엔지니어를 꿈꾸는 개발하는 감자 🥔 </h3> -->
 <h3 align="center">Main Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Tensorflow-013243?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Pytorch-013243?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-013243?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/pandas-2300599C?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Numpy-0078D6?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Tensorflow-FCC624?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-%2300f.svg?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-E95420?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp <br>
+  <img src="https://img.shields.io/badge/Django-FCC624?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Github-E95420?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-003545??style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-%23F7931E.svg?style=flat-square&logo=Matplotlib&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/scikit--learn-23000000?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
+  
 
 </p>
 
