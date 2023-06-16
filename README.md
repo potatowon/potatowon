@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <h3 align="center">🐙 My Github Stats 🐙</h3>
 <div align="center">
 
-[![Yewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&rank_icon=github&hide_title=true&show_icons=False&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Yewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywyw&rank_icon=github&hide_title=true&show_icons=False&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
